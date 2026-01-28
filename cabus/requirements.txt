@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn>=1.3
+xgboost
+joblib
+streamlit
+plotly
+category-encoders
+matplotlib
+seaborn
+shap
