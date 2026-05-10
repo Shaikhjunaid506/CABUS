@@ -1,4 +1,4 @@
-# Delhi-Noida Ride Prediction Project
+#CABUS
 
 This project contains code to analyze, train, and serve ML models that predict ride price and ETA
 for Uber and Ola rides in the Delhi-Noida region. The dashboard allows a user to pick pickup and drop
